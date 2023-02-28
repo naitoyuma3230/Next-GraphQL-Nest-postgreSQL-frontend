@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dotenv": "^16.0.3",
     "graphql-tag": "^2.12.6",
     "next": "13.2.1",
     "next-urql": "^4.0.3",
